@@ -1,12 +1,12 @@
 import os
 import time
-from selenium import webdriver # type: ignore
-from selenium.webdriver.chrome.service import Service as ChromeService # type: ignore
-from selenium.webdriver.common.keys import Keys # type: ignore
-from selenium.webdriver.common.by import By # type: ignore
-from webdriver_manager.chrome import ChromeDriverManager # type: ignore
-from selenium.webdriver.support.ui import WebDriverWait # type: ignore
-from selenium.webdriver.support import expected_conditions as EC # type: ignore
+from selenium import webdriver 
+from selenium.webdriver.chrome.service import Service as ChromeService 
+from selenium.webdriver.common.keys import Keys 
+from selenium.webdriver.common.by import By 
+from webdriver_manager.chrome import ChromeDriverManager 
+from selenium.webdriver.support.ui import WebDriverWait 
+from selenium.webdriver.support import expected_conditions as EC 
 
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 
