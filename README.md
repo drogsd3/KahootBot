@@ -1,5 +1,5 @@
 # Kahoot Bot
-Idealizado após professores usar o Kahoot em sala de aula.
+Idealizado após professores usarem o Kahoot em sala de aula.
 
 Após inserir o codigo e apelido na sala no Kahoot.it, o algoritmo responde as perguntas de maneira automatica.
 
