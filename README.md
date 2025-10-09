@@ -20,4 +20,4 @@ Esse projeto é para treinar e aplicar o conhecimento em Python e não tem intui
 - Para acessar a sala digite o codigo da sala no terminal quando requisitado, logo após, insira o apelido.
 
 ### Informações Finais
-Esse é meu primeiro projeto postado no GitHub, peço compreensão caso haja solução pratica não usual, falta de padrão nas criações (variavel, funções e arquivos) ou até erros não acerto na area de trabalho. 
+Esse é meu primeiro projeto postado no GitHub, peço compreensão caso haja solução não usual, falta de padrão nas criações (variavel, funções e arquivos) ou até erros que não se deve cometer na area Dev. 
