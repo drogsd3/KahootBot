@@ -1,5 +1,7 @@
 # Kahoot Bot
-Esse projeto entra na sala do kahoot, envia a pergunta para IA, aguarda o retorno da IA e responde a pergunta.
+Idealizado após professores usar o Kahoot em sala de aula.
+
+Após inserir o codigo e apelido na sala no Kahoot.it, o algoritmo responde as perguntas de maneira automatica.
 
 ### Introdução
 Para o projeto usa-se `Python` e os import:
