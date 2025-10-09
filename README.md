@@ -7,6 +7,7 @@ Para o projeto usa-se `Python` e os import:
 - `webdriver-manager`: Para gerenciar o driver do navegador.
 - `google.generativeai`: Para API com o Gemini do Google.
 - `openai`: Para API com o ChatGPT.
+  
 Esse projeto é para treinar e aplicar o conhecimento em Python e não tem intuito de ser usado como um facilitador em avaliações no Kahoot.
 
 ### Como usar
